@@ -103,3 +103,10 @@ repositories {
 ```
 implementation 'br.com.personal:myplugin:1.0.1'
 ```
+
+
+### 7 To use a view of plugin in other project
+
+```
+    render plugin:'myplugin', view :'/layouts/layoutplugin.gsp'
+```
