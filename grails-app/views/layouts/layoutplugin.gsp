@@ -13,6 +13,6 @@
 
 <body>
 <p>Oi</p>
-
+<g:render template="/layouts/mymain"></g:render>
 </body>
 </html>
